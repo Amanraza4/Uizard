@@ -1,0 +1,530 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+li {
+    list-style-type: none;
+}
+
+#free-btn{
+ background-color: #ffc600;
+ color: black;
+ border: none;
+ height: 40px;
+ width: 200px;
+ font-family: sans-serif;
+ font-weight: bold;
+ border-radius: 10px;
+ font-size: large;
+ margin-top: -170px;
+ margin-left: 1050px;
+}
+
+.topbar {
+    background-color: black;
+    color:white;
+    padding:6px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.logo {
+    height: 25px;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+.product {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-top:-25px ;
+    margin-left: 230px;
+    font-weight: bold;
+
+}
+
+.templates {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 350px;
+
+}
+
+.design {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: -15px;
+    margin-left: 470px;
+
+}
+
+.price {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: -17px;
+    margin-left: 630px;
+    
+}
+
+.pricing {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: -16px;
+    margin-left: 770px;
+
+}
+
+.blog {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: -18px;
+    margin-left: 870px;
+
+}
+
+.Log {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: -18px;
+    margin-left: 970px;
+}
+
+.fronth {
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.para {
+    margin-bottom: 48px;
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+#signup-btn{
+    background-color: #ffc600;
+    color: black;
+    border: none;
+    height: 40px;
+    width: 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: large;
+    margin-top: -170px;
+    margin-left: 580px;
+    margin-bottom: 100px;
+    align-items: center;
+
+}
+
+.video-img{
+    margin-left: 250px;
+    margin-bottom: 200px;
+    align-items: center;
+
+}
+
+.liketodesign{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.section-2 {
+    margin-left: 175px;
+
+}
+
+.section-3 {
+    margin-bottom: 8px;
+
+}
+
+.section-4 {
+    margin-left: 215px;
+
+}
+
+.section-5 {
+    margin-left: 50px;
+
+}
+
+.individuals {
+    margin-top: 225px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #959595;
+    text-align: center;
+
+}
+
+.ibm {
+    width: 90px;
+    color: #e0e0e0;
+    margin-left: 300px;
+    margin-bottom: 270px;
+    margin-top: 40px;
+    opacity: 0.3;
+    
+}
+
+.samsung {
+    color: #e0e0e0;
+    opacity: 0.3;
+    width: 150px;
+    margin-bottom: 270px;
+    margin-left: 55px;
+
+}
+
+.tesla  {
+    color: #e0e0e0;
+    opacity: 0.3;
+    width: 100px;
+    margin-bottom: 280px;
+    margin-left: 55px;
+
+}
+
+.google {
+    color: #e0e0e0;
+    opacity: 0.3;
+    width: 130px;
+    margin-bottom: 270px;
+    margin-left: 55px;
+
+}
+
+.green {
+    color: #e0e0e0;
+    opacity: 0.3;
+    width: 170px;
+    margin-bottom: 270px;
+    margin-left: 55px;
+
+}
+
+.pinterest {
+    color: #e0e0e0;
+    opacity: 0.3;
+    width: 180px;
+    margin-bottom: 450px;
+    margin-left: 330px;
+    margin-top: -250px;
+
+}
+.atlassian {
+  width: 180px;
+  margin-bottom: 450px;
+  margin-left:  34px;
+  margin-top: -315px;
+  color: #e0e0e0;
+  opacity: 0.3;
+
+}
+
+.addidas {
+    width: 80px;
+  margin-bottom: 454px;
+  margin-left:  38px;
+  margin-top: -252px;
+  color: #e0e0e0;
+  opacity: 0.3;
+  
+}
+
+.bank {
+    width: 190px;
+    margin-bottom: 450px;
+    margin-left:  34px;
+    margin-top: -315px;
+    color: #e0e0e0;
+    opacity: 0.3;
+  
+}
+
+.section-6 {
+    margin-top: -360px;
+    margin-left: 60px;
+
+}
+
+.section-7 {
+    margin-top: 80px;
+    margin-left: 55px;
+
+}
+
+.ui {
+    margin-top: -100px;
+    margin-left: 390px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #959595;
+    font-size: large;
+}
+
+.productive {
+    margin-top: 30px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.themes {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.templates-2 {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.wire {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.assistant {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.enterprice {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.vs {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.pri {
+    margin-top: 15px;
+    margin-left: 395px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.resource {
+    margin-top: -275px;
+    margin-left: 620px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #959595;
+    font-size: large;
+
+}
+
+.blog-2 {
+    margin-top: 30px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.help {
+    margin-top: 15px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+}
+
+.con {
+    margin-top: 15px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.about {
+    margin-top: 15px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.careees {
+    margin-top: 15px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.res {
+    margin-top: 15px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.press {
+    margin-top: 15px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.media {
+    margin-top: -245px;
+    margin-left: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #959595;
+    font-size: large;
+
+}
+
+.facebook {
+    margin-top: 30px;
+    margin-left: 882px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.twitter {
+    margin-top: 15px;
+    margin-left: 882px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.linkedin {
+    margin-top: 15px;
+    margin-left: 882px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.instagram {
+    margin-top: 15px;
+    margin-left: 882px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.dribbble {
+    margin-top: 15px;
+    margin-left: 882px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.legal {
+     margin-top: -188px;
+    margin-left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #959595;
+    font-size: large;
+
+}
+
+.policy {
+    margin-top: 30px;
+    margin-left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+
+}
+
+.service {
+    margin-top: 15px;
+    margin-left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+    font-size: small;
+    margin-bottom: 300px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
